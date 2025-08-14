@@ -1,0 +1,11 @@
+
+Custom Vulnerability Scan Report
+================================
+Target: example.com
+Scan Time: 2025-08-13T22:01:08.240053
+Status: completed
+Findings: demonstration only
+
+This is a demonstration report.
+In production, this would contain actual vulnerability data.
+        
